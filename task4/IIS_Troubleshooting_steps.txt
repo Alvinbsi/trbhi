@@ -1,0 +1,1 @@
+Default application pool has stopped so I created new application pool to fix the 503 server unavailable issue, and now that application is working fine.

@@ -1,0 +1,2 @@
+[alvin@server terraform]$ curl server.alvinselva.com:9200/_cat/health
+1616558428 04:00:28 docker-cluster green 1 1 6 6 0 0 0 0 - 100.0%

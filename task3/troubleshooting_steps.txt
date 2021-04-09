@@ -1,0 +1,1 @@
+I checked the Redis log file and found that the '/var/log/redis-server.log' file was missing, so I commented on the log file inside the Redis config file, and now it works fine.
